@@ -1,0 +1,19 @@
+{
+    "name": "VitalMediator",
+    "rootNamespace": "",
+    "references": [
+        "VitalMediator.Abstractions",
+        "VContainer",
+        "VitalRouter",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
